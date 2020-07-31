@@ -1,6 +1,6 @@
 ### ✨ Welcome to my profile !
 
-I am Quentin, a senior high school student who love who likes to code ! I would like to become a full stack developer :) 
+I am Quentin, a senior high school student who would like to become a full stack developer :) 
 
 ### 💼 Some of my best projects :
 
