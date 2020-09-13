@@ -13,4 +13,5 @@ I am Quentin, a senior high school student who would like to become a full stack
 * 🐍 Python
 * 🌐 JavaScript, both browser and server side
 * 🌐 PHP
-* ⚛️ ReactJs and ReactNative
+* ⚛️ ReactJs
+* 📱 Flutter
