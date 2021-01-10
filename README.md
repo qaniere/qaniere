@@ -5,13 +5,16 @@ I am Quentin, a senior high school student who would like to become a full stack
 ### 💼 Some of my best projects :
 
 * 🔒 [Kripto](https://github.com/qaniere/Kripto) : A peer to peer encrypted chat with my own implemenation of RSA.
-* 🤫TouDouxListe and Milano : Secret cool stuff coming soon ;)
+* 🤫TouDouxListe and more secret cool stuff coming soon ;)
 * ⌛ More projects will join this list soon, I'm learning everyday :)
 
-### 📖 Languages and technologies I learn :
+### 📚 Languages and technologies I know :
 
 * 🐍 Python
-* 🌐 JavaScript, both browser and server side
+
+### 🎓 Languages and technologies I learn :
+
+* 🌐 Javascript, both browser and server side
 * 🌐 PHP
 * ⚛️ ReactJs
 * 📱 Flutter
