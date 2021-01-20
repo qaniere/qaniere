@@ -13,10 +13,13 @@ I am Quentin, a senior high school student who would like to become a full stack
 ### 📚 Languages and technologies I know :
 
 * 🐍 Python
+* ✍️ Git / Github
+* 🔬 Unit Testing
 
 ### 🎓 Languages and technologies I learn :
 
 * 🌐 Javascript, both browser and server side
 * 🌐 PHP
 * ⚛️ ReactJs
-* 📱 Flutter
+* 📱  Flutter
+* 💣 Cyber Security
