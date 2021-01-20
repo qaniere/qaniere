@@ -1,6 +1,6 @@
 ### ✨ Welcome to my profile !
 
-I am Quentin, a senior high school student who would like to become a full stack developer :) 
+I am Quentin, a senior high school student who is interessed in computer science, specifically in the fields of development and cybersecurity.
 
 > :warning: I started coding in french (bad idea i know), so i'm currently translating all of that in english
 
@@ -23,3 +23,8 @@ I am Quentin, a senior high school student who would like to become a full stack
 * ⚛️ ReactJs
 * 📱  Flutter
 * 💣 Cyber Security
+
+### 🔧 My skills
+
+* English (Fluent)
+* Spanish (good level)
