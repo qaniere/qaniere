@@ -6,9 +6,9 @@ I am Quentin, a senior high school student who is interessed in computer science
 
 ### 💼 Some of my best projects :
 
-* 🔒 [Kripto](https://github.com/qaniere/Kripto) : A peer to peer encrypted chat with my own implemenation of RSA.
-* 🤫 Haddha, TouDouxListe and more secret cool stuff are coming soon ;)
-* ⌛ More projects will join this list soon, I'm learning everyday :)
+* 🔒 [Kripto](https://github.com/qaniere/Kripto) : A peer to peer encrypted chat with my own implemenation of RSA made with Python
+* 🤫 Haddha, Maloéna and more secret cool stuff are coming soon ;)
+* ⌛ More projects will join this list soon, I'm learning and making everyday :)
 
 ### 📚 Languages and technologies I know :
 
@@ -26,5 +26,6 @@ I am Quentin, a senior high school student who is interessed in computer science
 
 ### 🔧 My skills
 
+* French (Native)
 * English (Fluent)
-* Spanish (good level)
+* Spanish (Good level)
