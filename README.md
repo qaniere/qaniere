@@ -8,7 +8,6 @@ I am Quentin, a senior high school student who is interessed in computer science
 
 * 🔒 [Kripto](https://github.com/qaniere/Kripto) : A peer to peer encrypted chat with my own implemenation of RSA made with Python
 * 🎵 [Spotify Cover Downloader](https://github.com/qaniere/spotify-cover-downloader) : A little Electron Js app to download Spotify covers
-* 🤫 Haddha, Maloéna and more secret cool stuff are coming soon ;)
 * ⌛ More projects will join this list soon, I'm learning and making everyday :)
 
 ### 📚 Languages and technologies I know :
@@ -21,7 +20,6 @@ I am Quentin, a senior high school student who is interessed in computer science
 ### 🎓 Languages and technologies I learn :
 
 * 🌐 Javascript, both browser and server side
-* 🌐 PHP
 * 🐳 Docker
 * ⚛️ ReactJs
 * 📱  Flutter
@@ -32,3 +30,4 @@ I am Quentin, a senior high school student who is interessed in computer science
 * French (Native)
 * English (Fluent)
 * Spanish (Good level)
+* Binary (00111011 00101001)
