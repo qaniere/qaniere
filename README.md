@@ -7,7 +7,7 @@ I am Quentin, a senior high school student who is interessed in computer science
 ### 💼 Some of my best projects :
 
 * 🔒 [Kripto](https://github.com/qaniere/Kripto) : A peer to peer encrypted chat with my own implemenation of RSA made with Python
-* 🎵 [Spotify Cover Downloader](https://github.com/qaniere/spotify-cover-downloader) : A little Electron Js app to download Spotify covers
+* 🎵 [Spotify Cover Downloader](https://github.com/qaniere/spotify-cover-downloader) : A little Electron app to download Spotify covers
 * ⌛ More projects will join this list soon, I'm learning and making everyday :)
 
 ### 📚 Languages and technologies I know :
