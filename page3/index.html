@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Micro-Paint</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Sora:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>Micro-Paint</h1>    
+    <canvas id="canvas"> 
+    </canvas>
+    <div id="span-container">
+        <span id="radius-display">Taille du cercle : 50px</span>
+    </div>
+    <div id="button-container">
+        <button id="plus-button" class="mobile-button">+</button>
+        <button id="download-button">Télécharger la toile</button>
+        <button id="clear-button">Effacer la toile</button>
+        <button id="minus-button" class="mobile-button">-</button>
+    </div>
+    <a id="download-link" download="toile.png" href="#"></a>
+    <script src="script.js"></script>
+</body>
+</html>

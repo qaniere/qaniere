@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <title>Programme fidélité</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Contenu: Page de fidelité de Cofiit, la start-up
+    qui propose des distributeurs nouvelle génération.">
+    <meta name=" author" content="L'équipe Cofiit"/>
+    <meta name=" copyright" content="Cofiit"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../medias/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../style/header.css">
+    <link rel="stylesheet" href="../style/loyalty.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Rubik:wght@600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav>
+        <a href="../index.html"><img src="../medias/logo.png" id="logo" alt="Le logo de notre entreprise, il représente une tasse de café"></a>
+        <span id="title">Cofiit</span>
+        <img id="mobile-menu-icon" src="../medias/menu.png" alt="L'icone du menu sur mobile">
+        <div id="menu" role="menu">
+            <div class="menu-item">
+                <a href="../index.html">Accueil</a>
+            </div>
+            <div class="menu-item" role="menuitem">
+                <a href="./map.html">Nos machines</a>
+            </div>
+            <div class="menu-item" role="menuitem">
+                <a href="./rse.html">Politique RSE</a>
+            </div>
+            <div class="menu-item" role="menuitem">
+                <a href="#">Carte fidélité</a>
+            </div>
+            <div class="menu-item" role="menuitem">
+                <a href="./staff.html">Notre équipe</a>
+            </div>
+            <div class="menu-item" role="menuitem">
+                <a href="./contact.html">Contact</a>
+            </div>
+        </div>
+    </nav>
+        <div id="banner-container" role="banner">
+            <img id="banner" src="../medias/banner.webp" alt="La bannière du site. Elle représente une tasse de café">
+            <div id="banner-text-container">
+                <div>
+                    <h1>Carte de fidelité</h1>
+                </div>
+                <div id="arrow-container">
+                    <div id="round">
+                        <a href="#start"><img id="arrow" src="../medias/arrow.png" alt="Une flèche qui sert à descendre dans la page"></a>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <main id="start">
+            <form id="login-form">
+                <img id="card-logo" src="../medias/logo.png" alt="Le logo de la carte fidelité, il représente un gobelet de café">
+                <h2>Connexion</h2>
+                <div class="input-container">
+                    <label for="username">Nom d'utilisateur :</label>
+                    <input id="username" name="username" placeholder="JohnDoe384" required>
+                </div>
+                <div class="input-container">
+                    <label for="password">Votre mot de passe :</label>
+                    <input id="password" type="password" required>
+                </div>
+                <div class="input-container">
+                    <input type="submit" value="Connexion">
+                </div>
+                <div class="input-container">
+                    <span id="connexion-result"></span>
+                </div>
+            </form>
+            <div id="loyalty-container">
+                <div id="welcome-container">
+                   <h2>Bienvenue <span id="username-placeholder"></span> !</h2>
+                    <span>Votre solde est de <span id="balance-placeholder"></span> points. (Dernière mise à jour : <span id="datetime-placeholder"></span>)</span>
+                    <p id="rules"> Voici la liste des récompenses que vous pouvez réclamer. Lorsque qu'un cercle vert s'affiche à coté, votre solde
+                        de Cofiit-coins vous permet de vous offrir cette récompense. Cette page est uniquement informative, merci d'utiliser
+                        une machine Cofiit afin de pouvoir utilisers vos points.
+                    </p>
+                </div>
+                <div id="rewards-list">
+                    <div class="reward-container" data-points="10">
+                        <div class="content">
+                            <img class="reward-logo" src="../medias/rewards/coffee.png" alt="Une récompense, un gobelet de café">
+                            <h2>• Un café</h2>
+                            <span>10 points</span>
+                            <p>
+                                Pour remercier de votre fidelité, nous vous offrons un gobelet de café ! Issu du commerce équitable
+                                et sélectionné par nos baristas, il saura réchauffer votre pause Cofiit !
+                            </p>
+                        </div>
+                    </div>
+                    <div class="reward-container" data-points="50">
+                        <div class="content">
+                            <img class="reward-logo" src="../medias/rewards/croissant.png" alt="Une récompense, un croissant">
+                            <h2>• Un croissant</h2>
+                            <span>50 points</span>
+                            <p>
+                                Pour remercier de votre fidelité, nous vous offrons un croissant ! Il est issu d'une boulangerie locale 
+                                et il a directement déposé dans votre distributeur Cofiit par un coursier à vélo afin de limiter l'impact carbone.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="reward-container" data-points="100">
+                        <div class="content">
+                            <img class="reward-logo" src="../medias/rewards/cookie.png" alt="Une récompense, un cookie">
+                            <h2>• Un maxi cookie</h2>
+                            <span>100 points</span>
+                            <p>Pour remercier de votre fidelité, nous vous offrons un maxi cookie !</p>
+                        </div>
+                    </div>
+                    <div class="reward-container" data-points="200">
+                        <div class="content">
+                            <img class="reward-logo" src="../medias/rewards/salad.png" alt="Une récompense, une salade">
+                            <h2>• Une salade bio</h2>
+                            <span>200 points</span>
+                            <p>
+                                Pour remercier de votre fidelité, nous vous offrons une salade bio ! Elle a été cuisinée dans nos 
+                                locaux à partir de produits frais et locaux.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="reward-container" data-points="9999999">
+                        <div class="content">
+                            <img class="reward-logo" src="../medias/rewards/unknown.png" alt="Une récompense, une salade">
+                            <h2>• ????</h2>
+                            <span>???? points</span>
+                            <p>
+                                Notre équipe de choc travaille d'arrache-pied afin de vous proposer de nouvelles récompenses, restez connectés !
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <script src="../scripts/header.js"></script>
+        <script src="../scripts/login.js"></script>
+</body>
+</html>

@@ -1,0 +1,94 @@
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+#map {
+    height: 70vh;
+    width: 50vw;
+    justify-self: center;
+    flex: 1;
+}
+
+#map-item{
+    padding-bottom: 2vh;
+}
+
+#technicien{
+    height: 30vh;
+    width: auto;
+    margin-left: 1vw;
+    margin-bottom: 1vh;
+}
+
+.map-text-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 2vh;
+}
+
+.item {
+    display: flex;
+    flex-wrap: wrap;
+
+    border-radius: 10px;
+    border: 3px solid black;
+    background-color: #d2ebcc;
+
+    width: 55vw;
+    padding-top: 1vh;
+    padding-left: 2vh;   
+    padding-right: 2vh;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+}
+
+.item > h2 {
+    width: 80%;
+}
+
+.paragraph > a {
+    text-decoration: underline;
+}
+
+.paragraph > a:hover {
+    font-weight: bold;
+}
+
+
+.item-n-picture{
+    display: flex;
+    flex-direction: row;
+}
+
+.paragraph{
+    font-size: large;
+    text-align: justify;
+}
+
+.box-logo {
+    height: 7vh;
+    width: 7vh;
+    margin-top: 1vh;
+    margin-right: 0.5vw;
+}
+
+
+@media screen and (max-width: 1024px) {
+
+    #map {
+        height: 40vh;
+        width: 70vw;
+    }
+
+
+    .item {
+        width: 77vw;
+    }
+
+    .item-n-picture{
+        display: flex;
+        flex-direction: column;
+    }
+}

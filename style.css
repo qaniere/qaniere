@@ -1,0 +1,148 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-start;
+    background-color: #2980b9;
+
+    padding-bottom: 10vh;
+}
+body > * {
+    animation: 1s slide-from-top;
+    animation-fill-mode: forwards;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+    font-size: 4em;
+    font-family: "Sora", sans-serif;
+    
+}
+
+span {
+    width: 100%;
+    text-align: center;
+    font-size: 1.5em;
+    font-family: "Roboto", sans-serif;
+}
+
+a, a:visited  {
+    color: black;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+
+#block-1 {
+    opacity: 0;
+    animation-delay: 0.25s;
+}
+
+#block-2 {
+    opacity: 0;
+    animation-delay: 0.50s;
+}
+
+#block-3 {
+    opacity: 0;
+    animation-delay: 0.75s;
+}
+
+#block-4 {
+    opacity: 0;
+    animation-delay: 1s;
+}
+
+#block-5 {
+    opacity: 0;
+    animation-delay: 1.25s;
+}
+
+.project-container {
+    width: 50vw;
+    padding: 1vw;
+    margin-top: 4vh;
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+    border: 2px solid black;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    background-color: #f4f4ec;
+}
+
+.text-container {
+    margin-left: 1vw;
+    width: 60%;
+}
+
+.text-container > h2 {
+    font-size: 2em;
+    height: 2vh;
+    font-family: "Sora", sans-serif;
+}
+
+.text-container > p {
+    font-family: "Roboto", sans-serif;
+}
+
+.round-container {
+    height: 20vh;
+    width: 20vh;
+    padding: 1vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 50%;
+    background-color: #888888;
+}
+
+.round-container > img {
+    height: 14vh;
+    width: 14vh;
+}
+
+@keyframes slide-from-top {
+    
+    from {
+        opacity: 0;
+        transform: translateY(-30vh);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+@media screen and (max-width: 1024px) { 
+
+    .project-container {
+        width: 85vw;
+    }
+
+    .round-container {
+        height: 10vh;
+        width: 10vh;
+    }
+
+    .round-container > img {
+        height: 8vh;
+        width: 8vh;
+    }
+
+    .text-container {
+        width: 70%;
+    }
+
+    .text-container > h2 {
+        font-size: 1.5em;
+    }
+}

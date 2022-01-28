@@ -1,0 +1,94 @@
+a:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.staff-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.staff-member {
+    min-height: 50vh;
+    width: 20vw;
+
+    padding: 3vh;
+    margin-top: 2vh;
+    margin-left: 3vh;
+    margin-right: 3vh;
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+
+    color: white;
+    border-radius: 10px;
+    background-color: #413b35;
+}
+
+.pictures {
+    height: 15vh;
+    border-radius: 50%;
+}
+
+.title-block {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Roboto', sans-serif;
+}
+
+.description {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.name {
+    width: 100%;
+    font-family: 'Rubik';
+    font-size: 4vh;
+    text-align: center;
+}
+
+.block {
+    text-align: justify;
+}
+
+.profile-picture-circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 16vh;
+    width: 16vh;
+
+    border-radius: 100px;
+    background-color: #7e9073;
+    padding: 0.5vh;
+}
+
+.contact {
+
+    margin: 5vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+    position: relative;
+}
+
+
+@media screen and (max-width: 1024px) {
+
+    .staff-member {
+        width: 65vw;
+    }
+}
+
