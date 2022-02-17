@@ -35,6 +35,10 @@ a:hover {
     font-weight: bold;
 }
 
+p {
+    font-size: 1.25em;
+}
+
 
 #block-1 {
     opacity: 0;
@@ -125,12 +129,15 @@ a:hover {
 @media screen and (max-width: 1024px) { 
 
     .project-container {
-        width: 85vw;
+        width: 90vw;
     }
 
     .round-container {
         height: 10vh;
         width: 10vh;
+
+        margin-top: 1vh;
+        align-self: start;
     }
 
     .round-container > img {
@@ -144,5 +151,25 @@ a:hover {
 
     .text-container > h2 {
         font-size: 1.5em;
+    }
+
+    #block-1 {
+        animation-delay: 0.25s;
+    }
+    
+    #block-2 {
+        animation-delay: 0.25s;
+    }
+    
+    #block-3 {
+        animation-delay: 0.25s;
+    }
+    
+    #block-4 {
+        animation-delay: 0.25s;
+    }
+    
+    #block-5 {
+        animation-delay: 0.25s;
     }
 }
