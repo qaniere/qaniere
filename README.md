@@ -19,7 +19,7 @@ I am Quentin, first year computer science student who is interessed in the field
 * 🧩 Algorithms
 * ✍️ Git / Github
 * 🔬 Unit Testing
-* 🐧 Linux (Ubuntu, Arch and Manjaro mostly)
+* 🐧 Linux (Ubuntu and Arch mostly)
 * 🕸️ Network knowledge 
 
 ### 🎓 Languages and technologies that I learn
