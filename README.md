@@ -1,10 +1,8 @@
 ### ✨ Welcome to my profile !
 
-I am Quentin, first year computer science student who is interessed in the fields of development and cybersecurity.
+I'm Quentin, a second year computer science student who is interested in cloud infrastructure and web development
 
-> :warning: I started coding in french (bad idea i know), so i'm currently translating all of that in english
-
-### 💼 Some of my best projects
+### 💼 My major projects
 
 * 🔒 [Kripto](https://github.com/qaniere/Kripto) : A peer to peer encrypted chat with my own implemenation of RSA made with Python.
 * 🎵 [Spotify Cover Downloader](https://github.com/qaniere/spotify-cover-downloader) : An Electron app to download Spotify covers.
@@ -13,19 +11,17 @@ I am Quentin, first year computer science student who is interessed in the field
 
 ### 📚 Languages and technologies that I master
 
+* 🐋 Docker and docker-compose
 * 🐍 Python
-* 🌐 Javascript, both browser and server side
-* 🇨 C language
+* ☕ Java (cli, Swing and Springboot)
+* 🇨 C language (cli and ncurses)
+* 🌐 Javascript (Browser vanilla, express, electron)
+* 🐧 Linux (Mostly Arch and Debian based system)
 * 🧩 Algorithms
 * ✍️ Git / Github
 * 🔬 Unit Testing
-* 🐧 Linux (Ubuntu and Arch mostly)
-* 🕸️ Network knowledge 
-
-### 🎓 Languages and technologies that I learn
-
-* ⚛️ ReactJs
-* 💣 Cyber Security
+* 🤖 CI / CD
+* 🕸️ Network knowledge (Configuration of DNS, DHCP, VLAN, Apache, Nginx, Caddy)
 
 ### 🔧 My other skills
 
