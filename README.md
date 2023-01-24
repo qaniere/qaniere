@@ -5,8 +5,9 @@ I'm Quentin, a second year computer science student who is interested in cloud i
 ### 💼 My major projects
 
 * 🔒 [Kripto](https://github.com/qaniere/Kripto) : A peer to peer encrypted chat with my own implemenation of RSA made with Python.
-* 🎵 [Spotify Cover Downloader](https://github.com/qaniere/spotify-cover-downloader) : An Electron app to download Spotify covers.
+* 🎓 [Studently](https://github.com/qaniere/Studently) : A javascript app made in 36h during a hackathon focused on students support
 * ☕ [Cofiit](https://github.com/qaniere/Cofiit) : A startup that we invented, wrote the business plan and made the website. Designed with HTML/CSS/Javascript in team.
+* 🖥 [VMS-Manager](https://github.com/qaniere/VMS-Manager) : A graphical client / server app to handle operation on a linked list of virtual machines
 * ⌛ More projects will join this list soon, I'm learning and making everyday :)
 
 ### 📚 Languages and technologies that I master
