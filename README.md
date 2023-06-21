@@ -14,10 +14,11 @@ I'm Quentin, a second year computer science student who is interested in cloud i
 
 * 🐋 Docker and docker-compose
 * 🐍 Python
-* ☕ Java (cli, Swing and Springboot)
+* ☕ Java (cli, Swing, Android and Springboot)
 * 🇨 C language (cli and ncurses)
-* 🌐 Javascript (Browser vanilla, express, electron)
-* 🐧 Linux (Mostly Arch and Debian based system)
+* 🌐 Javascript (Browser vanilla, Express, Electron)
+* 🌐 Typescript (Angular)
+* 🐧 Linux (Arch and Debian based system)
 * 🧩 Algorithms
 * ✍️ Git / Github
 * 🔬 Unit Testing
