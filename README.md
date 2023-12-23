@@ -2,6 +2,8 @@
 
 I'm Quentin, a second year computer science student who is interested in cloud infrastructure and web development
 
+[![wakatime](https://wakatime.com/badge/user/3fe29990-6be1-4e89-8dd2-e110a3cc31f6.svg)](https://wakatime.com/@3fe29990-6be1-4e89-8dd2-e110a3cc31f6)
+
 ### 💼 My major projects
 
 * 🔒 [Kripto](https://github.com/qaniere/Kripto) : A peer to peer encrypted chat with my own implemenation of RSA made with Python.
